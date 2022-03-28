@@ -1,0 +1,23 @@
+﻿  BanqueG2.cpp
+C:\Users\C.Ghyzlane\Desktop\EMSI\EMSI21\G2\BanqueG2\BanqueG2\Client.h(8,11): error C2653: 'Bank' : n'est pas un nom de classe ni d'espace de noms
+  Client.cpp
+C:\Users\C.Ghyzlane\Desktop\EMSI\EMSI21\G2\BanqueG2\BanqueG2\Client.h(8,11): error C2653: 'Bank' : n'est pas un nom de classe ni d'espace de noms
+  Compte.cpp
+C:\Users\C.Ghyzlane\Desktop\EMSI\EMSI21\G2\BanqueG2\BanqueG2\Client.h(8,11): error C2653: 'Bank' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\C.Ghyzlane\Desktop\EMSI\EMSI21\G2\BanqueG2\BanqueG2\Compte.cpp(8,11): error C2872: 'Compte' : symbole ambigu
+C:\Users\C.Ghyzlane\Desktop\EMSI\EMSI21\G2\BanqueG2\BanqueG2\Client.h(8,13): message : est peut-être 'Compte'
+C:\Users\C.Ghyzlane\Desktop\EMSI\EMSI21\G2\BanqueG2\BanqueG2\Compte.h(8,8): message : ou       'Bank::Compte'
+C:\Users\C.Ghyzlane\Desktop\EMSI\EMSI21\G2\BanqueG2\BanqueG2\Compte.cpp(8,13): error C2027: utilisation du type non défini 'Compte'
+C:\Users\C.Ghyzlane\Desktop\EMSI\EMSI21\G2\BanqueG2\BanqueG2\Client.h(8): message : voir la déclaration de 'Compte'
+C:\Users\C.Ghyzlane\Desktop\EMSI\EMSI21\G2\BanqueG2\BanqueG2\Compte.cpp(72,23): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\C.Ghyzlane\Desktop\EMSI\EMSI21\G2\BanqueG2\BanqueG2\Compte.cpp(80,23): warning C4018: '<' : incompatibilité signed/unsigned
+  CompteCourant.cpp
+C:\Users\C.Ghyzlane\Desktop\EMSI\EMSI21\G2\BanqueG2\BanqueG2\Client.h(8,11): error C2653: 'Bank' : n'est pas un nom de classe ni d'espace de noms
+  Compte_Epargne.cpp
+C:\Users\C.Ghyzlane\Desktop\EMSI\EMSI21\G2\BanqueG2\BanqueG2\Client.h(8,11): error C2653: 'Bank' : n'est pas un nom de classe ni d'espace de noms
+  Opertaion.cpp
+  payant.cpp
+C:\Users\C.Ghyzlane\Desktop\EMSI\EMSI21\G2\BanqueG2\BanqueG2\Client.h(8,11): error C2653: 'Bank' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\C.Ghyzlane\Desktop\EMSI\EMSI21\G2\BanqueG2\BanqueG2\payant.cpp(13): error C2102: '&' nécessite une l-value
+C:\Users\C.Ghyzlane\Desktop\EMSI\EMSI21\G2\BanqueG2\BanqueG2\payant.cpp(20): error C2102: '&' nécessite une l-value
+  Génération de code en cours...
